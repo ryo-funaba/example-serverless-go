@@ -1,5 +1,5 @@
-pkgname = "boiler"
-output = "internal/pkg/boiler"
+pkgname = "model"
+output = "internal/domain/model"
 add-enum-types = true
 no-tests = true
 wipe = true
